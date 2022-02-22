@@ -1,0 +1,16 @@
+C:\Users\Hp\Desktop\isi\ConsoleApp.Eve-Tak-6\ConsoleApp1.Task-6(Sual-2)\bin\Debug\net5.0\ConsoleApp1.Task-6(Sual-2).exe
+C:\Users\Hp\Desktop\isi\ConsoleApp.Eve-Tak-6\ConsoleApp1.Task-6(Sual-2)\bin\Debug\net5.0\ConsoleApp1.Task-6(Sual-2).deps.json
+C:\Users\Hp\Desktop\isi\ConsoleApp.Eve-Tak-6\ConsoleApp1.Task-6(Sual-2)\bin\Debug\net5.0\ConsoleApp1.Task-6(Sual-2).runtimeconfig.json
+C:\Users\Hp\Desktop\isi\ConsoleApp.Eve-Tak-6\ConsoleApp1.Task-6(Sual-2)\bin\Debug\net5.0\ConsoleApp1.Task-6(Sual-2).runtimeconfig.dev.json
+C:\Users\Hp\Desktop\isi\ConsoleApp.Eve-Tak-6\ConsoleApp1.Task-6(Sual-2)\bin\Debug\net5.0\ConsoleApp1.Task-6(Sual-2).dll
+C:\Users\Hp\Desktop\isi\ConsoleApp.Eve-Tak-6\ConsoleApp1.Task-6(Sual-2)\bin\Debug\net5.0\ref\ConsoleApp1.Task-6(Sual-2).dll
+C:\Users\Hp\Desktop\isi\ConsoleApp.Eve-Tak-6\ConsoleApp1.Task-6(Sual-2)\bin\Debug\net5.0\ConsoleApp1.Task-6(Sual-2).pdb
+C:\Users\Hp\Desktop\isi\ConsoleApp.Eve-Tak-6\ConsoleApp1.Task-6(Sual-2)\obj\Debug\net5.0\ConsoleApp1.Task-6(Sual-2).csproj.AssemblyReference.cache
+C:\Users\Hp\Desktop\isi\ConsoleApp.Eve-Tak-6\ConsoleApp1.Task-6(Sual-2)\obj\Debug\net5.0\ConsoleApp1.Task-6(Sual-2).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp\Desktop\isi\ConsoleApp.Eve-Tak-6\ConsoleApp1.Task-6(Sual-2)\obj\Debug\net5.0\ConsoleApp1.Task-6(Sual-2).AssemblyInfoInputs.cache
+C:\Users\Hp\Desktop\isi\ConsoleApp.Eve-Tak-6\ConsoleApp1.Task-6(Sual-2)\obj\Debug\net5.0\ConsoleApp1.Task-6(Sual-2).AssemblyInfo.cs
+C:\Users\Hp\Desktop\isi\ConsoleApp.Eve-Tak-6\ConsoleApp1.Task-6(Sual-2)\obj\Debug\net5.0\ConsoleApp1.Task-6(Sual-2).csproj.CoreCompileInputs.cache
+C:\Users\Hp\Desktop\isi\ConsoleApp.Eve-Tak-6\ConsoleApp1.Task-6(Sual-2)\obj\Debug\net5.0\ConsoleApp1.Task-6(Sual-2).dll
+C:\Users\Hp\Desktop\isi\ConsoleApp.Eve-Tak-6\ConsoleApp1.Task-6(Sual-2)\obj\Debug\net5.0\ref\ConsoleApp1.Task-6(Sual-2).dll
+C:\Users\Hp\Desktop\isi\ConsoleApp.Eve-Tak-6\ConsoleApp1.Task-6(Sual-2)\obj\Debug\net5.0\ConsoleApp1.Task-6(Sual-2).pdb
+C:\Users\Hp\Desktop\isi\ConsoleApp.Eve-Tak-6\ConsoleApp1.Task-6(Sual-2)\obj\Debug\net5.0\ConsoleApp1.Task-6(Sual-2).genruntimeconfig.cache

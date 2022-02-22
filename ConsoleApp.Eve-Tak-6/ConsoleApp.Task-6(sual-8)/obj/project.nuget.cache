@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "wAQwJVBiOIBLOicaIwsfvUw3qE5Q//m1NNfvW7J9PTylUUvzqGFkxIRxGM+sWHfQrdkhuD7LzEUHSAqNKPDxKQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Hp\\Desktop\\isi\\Task-6\\ConsoleApp.Eve-Tak-6\\ConsoleApp.Task-6(sual-8)\\ConsoleApp.Task-6(sual-8).csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Hp\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.14\\microsoft.netcore.app.host.win-x64.5.0.14.nupkg.sha512"
+  ],
+  "logs": []
+}
